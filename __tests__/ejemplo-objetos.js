@@ -13,7 +13,7 @@ describe("Testing al Cliente", () => {
   });
 
   test("No es otro cliente", () => {
-    expect(cliente.nombre).not.toBe("Brayan");
+    expect(cliente.nombre).not.toBe("Samuel Cortes Guirales");
   });
 
   test("No tiene 500", () => {
