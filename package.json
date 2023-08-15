@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Merxxotas/JEST-Learning/issues"
   },
-  "homepage": "https://github.com/Merxxotas/JEST-Learning#readme"
+  "homepage": "https://github.com/Merxxotas/JEST-Learning#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
 }
