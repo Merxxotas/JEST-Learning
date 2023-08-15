@@ -1,0 +1,19 @@
+{
+  "name": "51-testing-jest",
+  "version": "1.0.0",
+  "description": "aprendiendo testing con JEST (Js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merxxotas/JEST-Learning.git"
+  },
+  "author": "Brayan Marin Guirales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Merxxotas/JEST-Learning/issues"
+  },
+  "homepage": "https://github.com/Merxxotas/JEST-Learning#readme"
+}
